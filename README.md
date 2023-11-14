@@ -6,7 +6,7 @@ This CANARI sub-project code repository, "CANARI_diagnostics" is open to suggest
 
 Initially, it's likely to be mainly NOC (noc.ac.uk) staff working on the CANARI project who might use it, but others in the CANARI consortium and beyond are also welcome too.
 
-To get started, clone this Git repository, e.g. from the Linux command line  an analysis platform such as JASMIN : 
+To get started, clone this Git repository, e.g. from the Linux command line : 
 
 `git clone git@github.com:NOC-MSM/CANARI_diagnostics.git`
 
